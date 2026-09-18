@@ -112,15 +112,6 @@ On Windows:
 .\output
 ```
 
-## 🔄 Git Workflow
-
-To add new laboratory programs to this repository:
-
-```bash
-git add .
-git commit -m "Add new lab program"
-git push
-```
 
 ## 📌 Note
 
