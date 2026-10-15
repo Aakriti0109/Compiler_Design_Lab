@@ -1,125 +1,45 @@
 # Compiler Design Lab
 
-This repository contains the programs, practical implementations, and experiments performed as part of the **Compiler Design Lab**
-The purpose of this repository is to implement and understand the fundamental concepts involved in **Compiler Design** through practical programming exercises.
+## 📚 About
+This repository contains practical programs and experiments performed as part of the **Compiler Design (CD) Lab** curriculum for the B.Tech Computer Science and Engineering course.
 
-The programs cover important topics such as:
+The objective of this lab is to understand the fundamental concepts of compiler construction, including lexical analysis, parsing, grammar, and intermediate code generation.
 
-* Lexical Analysis
-* Syntax Analysis
-* Regular Expressions
-* Finite Automata
-* Context-Free Grammars
-* FIRST and FOLLOW
-* Predictive Parsing
-* Shift-Reduce Parsing
-* Intermediate Code Generation
-* Code Optimization
-* Other compiler-related algorithms and concepts
+## 🎯 Objectives
+- Understand the working and phases of a compiler.
+- Learn lexical analysis and token identification.
+- Implement parsing techniques and grammar-related programs.
+- Understand FIRST and FOLLOW sets.
+- Explore intermediate code generation techniques.
+- Develop problem-solving skills through compiler-related programs.
 
-## 🛠️ Technologies Used
-
-* **C / C++**
-* Compiler Design concepts
-* VS Code
-* Git & GitHub
+## 🛠️ Languages & Tools
+- **Programming Languages:** C / C++ (as applicable)
+- **IDE:** Visual Studio Code
+- **Version Control:** Git and GitHub
 
 ## 📂 Repository Structure
 
 ```text
-Compiler-Design-Lab/
-│
-├── Program-1/
-├── Program-2/
-├── Program-3/
-├── Program-4/
-├── ...
-│
+CD-LAB/
+├── Experiment-1/
+├── Experiment-2/
+├── Experiment-3/
+├── Experiment-4/
+├── Experiment-5/
 └── README.md
 ```
 
-> The folder structure may be updated as more laboratory programs are added.
+*Note: The folder structure may vary depending on the experiments completed during the semester.*
 
-## 🎯 Objectives
+## 🧪 Experiments
+The repository may include practicals related to the following topics:
 
-* Understand the different phases of a compiler.
-* Implement fundamental compiler design algorithms.
-* Understand lexical and syntax analysis.
-* Work with grammars and parsing techniques.
-* Generate and optimize intermediate code.
-* Develop practical understanding of compiler construction.
-
-## 🧠 Topics Covered
-
-### 1. Lexical Analysis
-
-Study and implementation of techniques used to identify tokens and lexical patterns in source programs.
-
-### 2. Regular Expressions and Finite Automata
-
-Implementation and understanding of regular expressions, NFA, DFA, and their role in lexical analysis.
-
-### 3. Syntax Analysis
-
-Understanding grammars and parsing techniques used to verify the syntactic structure of a program.
-
-### 4. FIRST and FOLLOW
-
-Computation of FIRST and FOLLOW sets for context-free grammars.
-
-### 5. Predictive Parsing
-
-Implementation of top-down parsing techniques such as LL(1) parsing.
-
-### 6. Shift-Reduce Parsing
-
-Understanding bottom-up parsing using shift-reduce techniques.
-
-### 7. Intermediate Code Generation
-
-Generation of intermediate representations such as three-address code.
-
-### 8. Code Optimization
-
-Implementation and understanding of basic optimization techniques used to improve generated code.
-
-## ▶️ How to Run
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/Aakriti0109/CD-LAB.git
-```
-
-### Open the Project
-
-Open the cloned folder in **VS Code**.
-
-### Compile a C++ Program
-
-```bash
-g++ filename.cpp -o output
-```
-
-### Run the Program
-
-On Windows:
-
-```bash
-.\output
-```
-
-
-## 📌 Note
-
-This repository is maintained for **academic and learning purposes** as part of the Compiler Design Laboratory coursework.
-
-## 👩‍💻 Author
-
-**Aakriti**
-
-B.Tech Computer Science & Engineering
-
----
-
-⭐ Feel free to explore the programs and use them for learning and reference.
+1. Basic concepts and phases of a compiler.
+2. Lexical analysis and token recognition.
+3. Regular expressions and finite automata.
+4. FIRST and FOLLOW set computation.
+5. Recursive descent parsing.
+6. Shift-reduce parsing.
+7. Intermediate code generation.
+8
