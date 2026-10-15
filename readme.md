@@ -1,9 +1,6 @@
 # Compiler Design Lab
 
-This repository contains the programs, practical implementations, and experiments performed as part of the **Compiler Design Lab**.
-
-## 📚 About the Repository
-
+This repository contains the programs, practical implementations, and experiments performed as part of the **Compiler Design Lab**
 The purpose of this repository is to implement and understand the fundamental concepts involved in **Compiler Design** through practical programming exercises.
 
 The programs cover important topics such as:
